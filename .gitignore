@@ -3,3 +3,4 @@ venv
 .Python
 db.sqlite3
 
+storefront/settings.py
